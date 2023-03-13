@@ -1,0 +1,8 @@
+begin
+	Numeric salary,bill1,bill2,bill3
+	input salary,bill1,bill2,bill3
+	total= bill1+bill2+bill3
+	percentage= (100*total)/salary
+	print(total)
+	print(percentage)
+end

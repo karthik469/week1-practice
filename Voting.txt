@@ -1,0 +1,13 @@
+begin
+      Numeric age
+      print("Enter age to check it is Eligible or NotEligible ");
+      input age
+      if(age>=18)
+        {
+             print(age," is Eligible'")
+ 
+        }
+      else{
+            print(age," is NotEligible")
+        }
+end

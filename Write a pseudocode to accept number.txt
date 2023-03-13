@@ -1,0 +1,14 @@
+Write a pseudocode to accept number and check it is Even or odd
+
+begin
+      Numeric num
+      print("Enter number to check it is even or odd");
+      input num
+      if(num%2==0) {
+             print(num," is even number'")
+ 
+        }
+      else{
+            print(num," is odd number")
+        }
+end
